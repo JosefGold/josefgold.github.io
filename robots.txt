@@ -1,0 +1,10 @@
+# Content signals (https://contentsignals.org):
+#   search   - may appear in search results
+#   ai-input - may be used to answer questions live (retrieval, grounding)
+#   ai-train - may be used to train AI models
+
+User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+
+Sitemap: https://josefgoldstein.com/sitemap.xml

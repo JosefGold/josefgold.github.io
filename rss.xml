@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Josef (Yossi) Goldstein - Writing</title>
+    <link>https://josefgoldstein.com/</link>
+    <description>Josef (Yossi) Goldstein - engineering leader, speaker and writer. The data and culture guy.</description>
+    <language>en</language>
+    <item>
+      <title>Coffee, Tokens, and The Tokenpocalypse</title>
+      <link>https://josefgoldstein.com/writing/tokenpocalypse/</link>
+      <guid isPermaLink="true">https://josefgoldstein.com/writing/tokenpocalypse/</guid>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+      <description>We are all hooked, and we are definitely not going back.</description>
+      <category>ai</category>
+      <category>cloud-cost</category>
+      <category>way-of-work</category>
+    </item>
+    <item>
+      <title>Words Matter: How Prompting Shapes Accuracy, Speed, and Cost</title>
+      <link>https://josefgoldstein.com/writing/words-matter/</link>
+      <guid isPermaLink="true">https://josefgoldstein.com/writing/words-matter/</guid>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+      <description>Even at the current generation of LLMs, the prompt still plays an extremely important role in performance for tasks.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>On Technical Debt and Why We Can't Have Nice Things</title>
+      <link>https://josefgoldstein.com/writing/technical-debt/</link>
+      <guid isPermaLink="true">https://josefgoldstein.com/writing/technical-debt/</guid>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <description>Technical debt is usually created in return for gaining a certain value, even if you are not realizing it.</description>
+      <category>tech-debt</category>
+      <category>way-of-work</category>
+    </item>
+    <item>
+      <title>You Are The Problem: Stop Blaming Jira</title>
+      <link>https://josefgoldstein.com/writing/stop-blaming-jira/</link>
+      <guid isPermaLink="true">https://josefgoldstein.com/writing/stop-blaming-jira/</guid>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 GMT</pubDate>
+      <description>Jira tickets don't kill productivity: People kill productivity.</description>
+      <category>way-of-work</category>
+      <category>engineering-culture</category>
+    </item>
+    <item>
+      <title>4 Tips For Making Your Next Career Decision in 2024</title>
+      <link>https://josefgoldstein.com/writing/career-decision-2024/</link>
+      <guid isPermaLink="true">https://josefgoldstein.com/writing/career-decision-2024/</guid>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+      <description>The best way to be consistently hired and stay employed is by being hands-on.</description>
+      <category>careers</category>
+    </item>
+    <item>
+      <title>The Value of Incremental Failures</title>
+      <link>https://josefgoldstein.com/writing/incremental-failures/</link>
+      <guid isPermaLink="true">https://josefgoldstein.com/writing/incremental-failures/</guid>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 GMT</pubDate>
+      <description>A failure along the way can be a learning opportunity or even a goal by itself on our way to the next incremental success.</description>
+      <category>way-of-work</category>
+      <category>engineering-culture</category>
+    </item>
+    <item>
+      <title>The Importance of Trust in (Remote) Work</title>
+      <link>https://josefgoldstein.com/writing/trust-in-remote-work/</link>
+      <guid isPermaLink="true">https://josefgoldstein.com/writing/trust-in-remote-work/</guid>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+      <description>A high trust culture is foundational for any high functioning team, be it an elite operations unit like the Navy SEALs or just a plain ol' software engineering team.</description>
+      <category>engineering-culture</category>
+      <category>leadership</category>
+    </item>
+    <item>
+      <title>6 Steps to Make Yourself Obsolete as a Leader: Part 1 - The Art of Delegation</title>
+      <link>https://josefgoldstein.com/writing/make-yourself-obsolete-delegation/</link>
+      <guid isPermaLink="true">https://josefgoldstein.com/writing/make-yourself-obsolete-delegation/</guid>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+      <description>Your top priority right now is making sure others are equally as good as you are at getting things done if not better.</description>
+      <category>leadership</category>
+    </item>
+    <item>
+      <title>5 Tips For Making Your Next Career Decision in 2022</title>
+      <link>https://josefgoldstein.com/writing/career-decision-2022/</link>
+      <guid isPermaLink="true">https://josefgoldstein.com/writing/career-decision-2022/</guid>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 GMT</pubDate>
+      <description>The economy or state of the market shouldn’t affect the way you build your path, but you should be smart and timely, and leverage your opportunities correctly as they unfold before you.</description>
+      <category>careers</category>
+    </item>
+    <item>
+      <title>Your Job Is To Make Yourself Obsolete</title>
+      <link>https://josefgoldstein.com/writing/make-yourself-obsolete/</link>
+      <guid isPermaLink="true">https://josefgoldstein.com/writing/make-yourself-obsolete/</guid>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
+      <description>The definition of our profession, of software engineering, is to make other people’s job obsolete.</description>
+      <category>leadership</category>
+      <category>engineering-culture</category>
+    </item>
+    <item>
+      <title>This Place is a Mess, Rewrite Everything!</title>
+      <link>https://josefgoldstein.com/writing/rewrite-everything/</link>
+      <guid isPermaLink="true">https://josefgoldstein.com/writing/rewrite-everything/</guid>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
+      <description>Impact is not measured by change. Impact is measured by value created.</description>
+      <category>tech-debt</category>
+      <category>engineering-culture</category>
+    </item>
+  </channel>
+</rss>
